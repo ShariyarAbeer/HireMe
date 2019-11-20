@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "675353086439",
+    "firebase_url": "https://project-8d036.firebaseio.com",
+    "project_id": "project-8d036",
+    "storage_bucket": "project-8d036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675353086439:android:df11dd17893dafd2",
+        "android_client_info": {
+          "package_name": "com.abeer.hireme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675353086439-0upf4n6vduvca3hjqtc0vctt6rg6k3km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abeer.hireme",
+            "certificate_hash": "e9423402821bfeaa7a2e0a0d19f23c2084fc8460"
+          }
+        },
+        {
+          "client_id": "675353086439-m2tup2tjtbb9ruvov7h4peqoajjae380.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmGaR9tjBQWGLXzHeBm-AnvxvFQVklIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675353086439-m2tup2tjtbb9ruvov7h4peqoajjae380.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
